@@ -6,7 +6,7 @@ Therefore, any idea put forward in this folder tree are subject to change.
 
 ## Page navigation
 
- * Parent folder: [../README.md]
+ * Parent folder: [../README.md](../README.md)
  * See LICENSE at the top of directory.
 
 ## Organized by date

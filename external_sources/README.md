@@ -10,8 +10,16 @@ Examples are:
 
 ## Page navigation
 
- * Parent folder: [../README.md]
+ * Parent folder: [../README.md](../README.md)
  * See LICENSE at the top of directory.
 
 ## Organized by date
 
+### March 2018
+
+ * 
+
+## Organized by keywords alphabetically
+
+ * [QuickVec C++]()
+ * [UME::SIMD]()

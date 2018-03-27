@@ -10,6 +10,14 @@ The maintainer reserves the rights to remove these personal design notes or to m
 
 ---
 
+# Subfolders
+
+ * [Code-reading](./code_reading)
+ * [Thinking](./thinking)
+ * [External sources](./external_sources)
+
+---
+
 # License
 
 Copying of these personal design notes is allowed, subject to the conditions:
