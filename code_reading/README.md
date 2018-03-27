@@ -10,3 +10,5 @@
 ### March 2018
 
  * [2018-03-27 current intrinsics](./2018-03-27_current_intrinsics.md)
+ * [2018-03-27 objdetect hog](./2018-03-27_objdetect_hog.md)
+ * [2018-03-27 OpenCV - OpenVX interface header](./2018-03-27_opencv_openvx_interface.md)
