@@ -12,6 +12,7 @@ The maintainer reserves the rights to remove these personal design notes or to m
 
 # Subfolders
 
+ * [Daily plan](./daily_plan)
  * [Code-reading](./code_reading)
  * [Thinking](./thinking)
  * [External sources](./external_sources)
